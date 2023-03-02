@@ -13,7 +13,7 @@ This HTML & CSS-only challenge will be perfect for anyone starting to build resp
 ## Resources
 
 - Solution URL: [Click here](#)
-- Live Site URL: [Click here](#)
+- Live Site URL: [Click here](https://lukenso.github.io/Product-Preview-Card/)
 
 ## Author
 
