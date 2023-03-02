@@ -12,7 +12,7 @@ This HTML & CSS-only challenge will be perfect for anyone starting to build resp
 
 ## Resources
 
-- Solution URL: [Click here](#)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/product-preview-card-sB754GYRz3)
 - Live Site URL: [Click here](https://lukenso.github.io/Product-Preview-Card/)
 
 ## Author
