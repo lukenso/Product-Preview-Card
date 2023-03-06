@@ -102,6 +102,11 @@ span{
     line-height: 17.07px;
 }
 
+.addToCard:hover{
+    cursor: pointer;
+    background: #1A4032;
+}
+
 .icon-card{
     position: absolute;
     margin-top: 45px;
